@@ -9,7 +9,7 @@ sections:
       From this point you can navigate to our work templates (including product
       description and project pipelines), public brand assets or go to our SaaS
       links routing center
-    image: images/5.jpg
+    image: /images/v2_570px.gif
     section_id: Hello
     title: We share the knowledge here
     type: heroblock
