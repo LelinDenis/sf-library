@@ -16,8 +16,8 @@ sections:
   - component: FeaturesBlock
     featureslist:
       - actions:
-          - label: Get Started
-            url: docs/index.html
+          - label: Learn more
+            url: /showcase/
         content: >-
           We share our experience interacting with the world. We share our
           discoveries, achievements and failures. We are moving forward and we
