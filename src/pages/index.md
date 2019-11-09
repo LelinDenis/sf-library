@@ -37,10 +37,7 @@ sections:
       - actions:
           - label: Learn More
             url: /style-guide.html
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: A storehouse of knowledge for you and your colleagues.
         title: Knowledge base
     section_id: features
     type: featuresblock
