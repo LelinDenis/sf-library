@@ -32,7 +32,7 @@ sections:
           In this section, we look at the trends and news of the marketing world
           under our paradigm. It is always interesting and you can find a lot of
           useful things. Naked marketing: promising inbounds, Holy automation,
-          and reviews on the advanced marketer's tools.
+          and reviews on the advanced marketer's SaaS.
         title: Blog
       - actions:
           - label: Learn More
