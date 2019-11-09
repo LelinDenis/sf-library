@@ -31,7 +31,7 @@ sections:
         content: >-
           In this section, we look at the trends and news of the marketing world
           under our paradigm. It is always interesting and you can find a lot of
-          useful things. Naked marketing: promising inbounds, Holy automation,
+          useful things. Naked marketing: promising inbound, holy automation,
           and reviews on the advanced marketer's SaaS.
         title: Blog
       - actions:
@@ -41,7 +41,7 @@ sections:
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        title: Style Guides
+        title: Knowledge base
     section_id: features
     type: featuresblock
   - actions:
