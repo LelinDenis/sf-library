@@ -19,10 +19,12 @@ sections:
           - label: Get Started
             url: docs/index.html
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        title: Documentation
+          We share our experience interacting with the world. We share our
+          discoveries, achievements and failures. We are moving forward and we
+          want to help you avoid our mistakes. Read our new cases, take notes
+          for yourself, and don't be afraid to make mistakes. Remember, mistakes
+          help us not to stand still
+        title: Case stories
       - actions:
           - label: View Posts
             url: blog/index.html
