@@ -16,7 +16,7 @@ sections:
   - component: FeaturesBlock
     featureslist:
       - actions:
-          - label: Learn more
+          - label: Learn More
             url: /showcase/
         content: >-
           We share our experience interacting with the world. We share our
@@ -24,15 +24,16 @@ sections:
           want to help you avoid our mistakes. Read our new cases, take notes
           for yourself, and don't be afraid to make mistakes. Remember, mistakes
           help us not to stand still
-        title: Case stories
+        title: Case Stories
       - actions:
-          - label: View Posts
+          - label: What's New?
             url: blog/index.html
         content: >-
-          [/blog](/blog)Vestibulum a nunc ut eros condimentum posuere. Nullam
-          dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac
-          commodo eu.
-        title: Articles
+          In this section, we look at the trends and news of the marketing world
+          under our paradigm. It is always interesting and you can find a lot of
+          useful things. Naked marketing: promising inbounds, Holy automation,
+          and reviews on the advanced marketer's tools.
+        title: Blog
       - actions:
           - label: Learn More
             url: /style-guide.html
