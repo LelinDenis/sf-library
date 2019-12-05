@@ -47,10 +47,7 @@ sections:
       - label: Get Started
         url: /docs/getting-started/index.html
     component: ContentBlock
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: Om nama Shiva
     image: images/10.jpg
     section_id: text-img
     title: A Section With An Image
