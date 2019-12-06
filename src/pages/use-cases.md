@@ -1,14 +1,14 @@
 ---
-title: Use cases
+title: usecaseeee
 weight: ''
-excerpt: this page contains our portfolio
+excerpt: ''
 menus:
   layouts:
-    title: Lukoil shopper connection
-    weight: 2
+    title: ''
+    weight: ''
   main:
-    title: Use cases
-    weight: 1
+    title: ''
+    weight: ''
 template: docs
 ---
-Please put Lukoil case on the text below
+
