@@ -43,10 +43,8 @@ sections:
     section_id: features
     type: featuresblock
   - actions:
-      - label: View Demo
-        url: /docs/getting-started/index.html
-      - label: Get Started
-        url: /docs/getting-started/index.html
+      - label: View More
+        url: /lukoil
     component: ContentBlock
     content: >-
       The project brief from Lukoil Lubricants was to develop a shopper
