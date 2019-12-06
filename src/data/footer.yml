@@ -1,6 +1,6 @@
 content: '&copy; Stars & Fishes. All rights reserved.'
 links:
   - new_window: true
-    text: Deployed with pride &love on Netlify
+    text: 'Built with Gatsby.js. Deployed on Netlify. '
     url: 'https://www.starsfishes.com'
 has_social: true
