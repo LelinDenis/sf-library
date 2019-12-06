@@ -19,11 +19,11 @@ sections:
             url: /showcase/
         content: >-
           We share our experience interacting with the world. We share our
-          discoveries, achievements and failures. We are moving forward and we
+          discoveries, achievements and breakdowns. We are moving forward and we
           want to help you avoid our mistakes. Read our new cases, take notes
           for yourself, and don't be afraid to make mistakes. Remember, mistakes
-          help us not to stand still
-        title: Case Stories
+          help us not to stand still.
+        title: Showcase
       - actions:
           - label: What's New?
             url: blog/index.html
@@ -35,9 +35,11 @@ sections:
         title: Blog
       - actions:
           - label: Learn More
-            url: /style-guide.html
-        content: A storehouse of knowledge for you and your colleagues.
-        title: Knowledge base
+            url: 'https://starsfishes.com/'
+        content: >-
+          On our main site you can also find a lot of interesting things about
+          the history of Stars&Fishes
+        title: Primary Site
     section_id: features
     type: featuresblock
   - actions:
@@ -46,10 +48,13 @@ sections:
       - label: Get Started
         url: /docs/getting-started/index.html
     component: ContentBlock
-    content: Om nama Shiva
-    image: images/10.jpg
+    content: >-
+      The project brief from Lukoil Lubricants was to develop a shopper
+      marketing solution for their products selling through branded gasoline
+      station stores.
+    image: /images/screen-shot-2019-10-04-at-15.38.29.png
     section_id: text-img
-    title: A Section With An Image
+    title: Lukoil
     type: contentblock
   - component: FeaturesBlock
     featureslist:
