@@ -63,15 +63,14 @@ sections:
     title: Contact Us
     type: ctablock
   - actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
+      - label: Facebook
+        url: 'https://www.facebook.com/s.a.f.moscow'
+      - label: Instagram
+        url: 'https://www.instagram.com/stars_and_fishes/'
     component: ContentBlock
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: ''
     section_id: text-no-img
-    title: A Section Without Image
+    title: We're on social media
     type: contentblock
 menus:
   main:
