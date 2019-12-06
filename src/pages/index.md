@@ -2,10 +2,12 @@
 title: S&F Starting page
 sections:
   - actions:
-      - label: Get Started
+      - label: Get In Touch
         url: 'https://olgazherdenko.typeform.com/to/fqtpbr'
     component: HeroBlock
-    content: ''
+    content: >-
+      On this portal you will find comprehensive information about Stars&Fishes.
+      To contact us, click the button below.
     image: /images/снимок-экрана-2019-10-25-в-16.38.11.png
     section_id: Hello
     title: We share the knowledge here
