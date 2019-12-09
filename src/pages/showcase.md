@@ -1,6 +1,6 @@
 ---
 title: Showcase
-subtitle: This is an optional page subtitle
+subtitle: Here is our portfolio
 img_path: /images/v2_570px.gif
 items:
   - preview_img: /images/miller-b2b.jpg
