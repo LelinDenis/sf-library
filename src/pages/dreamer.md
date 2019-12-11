@@ -1,6 +1,6 @@
 ---
 title: Dreamer
-img_path: ''
+img_path: /images/v2_570px.gif
 template: page
 ---
 Today we want to share our fresh crazy case, which we collected with special love and awe, just as the customer's engineers have collected at the time of the product-the plane! Guys, the plane!!! Yes, a passenger plane in the form of a fighter on a diesel engine. And the name of this plane - Dreamer!
