@@ -1,5 +1,8 @@
 ---
 title: Dreamer
+subtitle: >-
+  Strategic research, marketing positioning, brand identity and a rockstar
+  marketing toolkit with a progressive web application and cool design assets
 img_path: /images/v2_570px.gif
 template: page
 ---
