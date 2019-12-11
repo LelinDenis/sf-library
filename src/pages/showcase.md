@@ -3,6 +3,13 @@ title: Showcase
 subtitle: Here is our portfolio
 img_path: /images/v2_570px.gif
 items:
+  - preview_img: /images/main-kety-visual.png
+    title: Dreamer
+    subtitle: >-
+      Strategic research, marketing positioning, brand identity and a rockstar
+      marketing toolkit with a progressive web application and cool design
+      assets
+    url: /dreamer
   - preview_img: /images/miller-b2b.jpg
     title: Miller (b2b)
     subtitle: B2B campaign for retailers (inbound marketing with infographics & PWA
@@ -45,13 +52,6 @@ items:
       Marketing toolkit and digital platform for a new brand Lemon Radler by
       Miller
     url: /lemon-radler
-  - preview_img: /images/main-kety-visual.png
-    title: Dreamer
-    subtitle: >-
-      Strategic research, marketing positioning, brand identity and a rockstar
-      marketing toolkit with a progressive web application and cool design
-      assets
-    url: /dreamer
 menus:
   layouts:
     title: ''
