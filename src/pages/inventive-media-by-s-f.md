@@ -1,6 +1,7 @@
 ---
 title: Inventive Media by S&F
 subtitle: AR Interaction Wrapped Into Powerful Air Humidifier
+img_path: /images/screen-shot-2019-12-17-at-4.48.44-pm.png
 template: page
 ---
 We're expanding our possibilities! Marketing must be in tune with the times. Inventive Media by Stars and Fishes presents innovative marketing tools to achieve maximum engagement of your user or customer with your content! Already today VR tours of premium quality and interactive presentations on SteamDisplay.
