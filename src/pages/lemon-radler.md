@@ -1,7 +1,7 @@
 ---
 title: Lemon Radler
 subtitle: Marketing toolkit and digital platform for a new brand Lemon Radler by Miller
-img_path: ''
+img_path: /images/screen-shot-2019-12-17-at-4.08.53-pm.png
 template: page
 ---
 ![](/images/lemon-radler-in-mockup.png)
