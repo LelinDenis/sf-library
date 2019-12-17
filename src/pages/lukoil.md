@@ -1,6 +1,7 @@
 ---
 title: Lukoil
 subtitle: Shopper Connection & Big Data Analytics
+img_path: /images/снимок-экрана-2019-12-17-в-16.30.09.png
 template: page
 ---
 ![](/images/screen-shot-2019-10-04-at-15.38.29.png)
