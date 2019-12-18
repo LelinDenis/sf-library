@@ -1,6 +1,7 @@
 ---
 title: Miller
 subtitle: ' Motion Design'
+img_path: /images/screen-shot-2019-12-18-at-6.16.29-pm.png
 template: page
 ---
 ![]()
