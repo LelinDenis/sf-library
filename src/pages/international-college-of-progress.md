@@ -1,6 +1,7 @@
 ---
 title: International College of Progress
 subtitle: Creating a New Brand In Education
+img_path: /images/screen-shot-2019-12-18-at-6.10.29-pm.png
 template: page
 ---
 ![](/images/14468388_329336844087916_8181872191181407823_o.jpg)
