@@ -1,6 +1,7 @@
 ---
 title: Rastishka (Danone)
 subtitle: AR project
+img_path: /images/screen-shot-2019-12-18-at-6.02.34-pm.png
 template: page
 ---
 We are pleased to tell you about one of our favorite AR projects which we bild for the brand Rastishka (Danone)
