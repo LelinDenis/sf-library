@@ -1,6 +1,6 @@
 ---
 title: Rastishka (Danone)
-subtitle: AR project
+subtitle: 'AR project for localised global brand Danone (Dadonino, in Russia - Rastishka)'
 img_path: /images/screen-shot-2019-12-18-at-6.02.34-pm.png
 template: page
 ---
